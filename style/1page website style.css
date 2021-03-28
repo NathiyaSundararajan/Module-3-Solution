@@ -1,0 +1,51 @@
+
+#header-nav {
+    background-color:#808080 ;
+    border: 2px solid black;
+border-radius:0;
+}
+nav .navbar-header .navbar-brand{
+	font-size: 35px;
+  	color: black;
+}
+
+
+nav .navbar-header .navbar-toggle .icon-bar{
+  	color: black;
+  	background-color: black;
+  	border:solid 2px black;
+}
+
+.main-title{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+   font-family: "Comic Sans MS", cursive;
+}
+.row{
+	margin: 20px;
+}
+.box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color:#808080 ;
+	font-family: "Comic Sans MS", cursive;
+	padding: 20px;
+}
+
+nav .navbar-collapse{
+	margin-top: 0px;
+}
+
+
+nav .navbar-collapse .menu-item{
+	border-top: 2px solid black;
+	color: black;
+	font-size: 25px;
+	background-color: white;
+	align-items: center;
+	text-align: center;
+	
+}
